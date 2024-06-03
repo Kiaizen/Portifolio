@@ -293,16 +293,17 @@ section.experience {
 
 section.formcontato {
   background-color: var(--cor-de-fundo2);
-  padding-top: 128px;
+  padding-top: 82px;
   margin-top: 32px;
 }
 
 .formcontato__contacto {
   display: flex;
   max-width: 1136px;
-  height: 788px;
+  height: auto;
   margin: auto;
-  gap: 15px;
+  gap: 16px;
+  padding-bottom: 82px;
 }
 
 .formcontato__img {
